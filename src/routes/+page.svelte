@@ -1,3 +1,2 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class="text-3xl font-bold">Welcome to the PocketDash Project 👋</h1>
+<p class="text-lg font-medium">Proceed to your account by <a class="visited:text-purple-600" href="/login">Login</a> or <a href="/register">Register</a></p>
