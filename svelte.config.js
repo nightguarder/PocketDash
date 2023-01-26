@@ -5,8 +5,8 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 const config = {
   kit: {
     adapter: adapter()
-  },
-  preprocess: vitePreprocess() //talwind.css
+  }
+
 };
 
 export default config;
