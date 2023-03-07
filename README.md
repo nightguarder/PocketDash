@@ -38,6 +38,8 @@ npm run build
 # preview the production build with 
 npm run preview`
 ```
-Note: in svelte.config.js
+
+### Notes:
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> - [x] in svelte.config.js
