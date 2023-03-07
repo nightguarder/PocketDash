@@ -1,2 +1,2 @@
-<h1 class="text-3xl font-bold">Welcome to the PocketDash Project 👋</h1>
-<p class="text-lg font-medium">Proceed to your account by <a class="visited:text-purple-600" href="/login">Login</a> or <a href="/register">Register</a></p>
+<h1 class="text-3xl font-bold">Welcome in Medicin system for doctors. 👋</h1>
+<p class="text-lg font-medium">Please LOGIN to proceed <a class="visited:text-purple-600" href="/login">Login</a> or <a href="/register">Register</a></p>
